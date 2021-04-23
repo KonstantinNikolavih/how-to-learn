@@ -46,7 +46,7 @@ ul, li, p, h3, h2, div, img {
   border: 1px solid red;
 }  
 /*сброс отступов*/
-.header {
+/*.header {
   position: relative;
   background-color: #f2f2f2;
   display: flex;
@@ -57,7 +57,7 @@ ul, li, p, h3, h2, div, img {
   max-height: 756px;
   height: 100vh;
   z-index: 1;
-}
+}*/
 .logo { 
   align-self: flex-start;
 }
@@ -73,7 +73,7 @@ ul, li, p, h3, h2, div, img {
   height: 32px;
   width: 183px;
 }
-.header__title {
+/*.header__title {
   font-size: 102px;
   line-height: 96px;
   font-weight: bold;
@@ -94,22 +94,14 @@ ul, li, p, h3, h2, div, img {
   margin-bottom: 0;
   align-items: center;  
 }
-.header__link {
-  color: #2f80ed;
-  text-decoration: none;
-}
-.header__link:hover {
-  opacity: 0.3;
-  transition: all 5s 1s;
-}
-.header__main-illustration {
+/*.header__main-illustration {
   position: absolute;
   width: 765px;
   height: 608px;
   bottom: 0;
   right: 0;
 }
-/*.rotate__miks {
+.rotate__miks {
   margin-left: 190px;
   margin-top: 0;
   /*right: 0;
@@ -174,7 +166,7 @@ ul, li, p, h3, h2, div, img {
          -moz-transform:rotate(720deg);
          -o-transform:rotate(360deg);
          transform:rotate(360deg);}
- }*/
+ }
 .header__square-pic {
   position: absolute;
   right: 0;
@@ -184,7 +176,7 @@ ul, li, p, h3, h2, div, img {
   width: 568px;
   background-color: #2f80ed;
   z-index: -1;
-}
+}*/
 .description {
   margin-top: 100px;
 }
