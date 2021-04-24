@@ -516,11 +516,11 @@ ul, li, p, h3, h2, div, img {
   justify-content: space-between;
   min-height: 250px;
 }
-.logo_place_footer {
+/*.logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   height: 35px;
   width: 183px;
-}
+}*/
 .footer__author {
   font-size: 18px;
   line-height: 25px;
