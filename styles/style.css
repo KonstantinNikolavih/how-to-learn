@@ -57,7 +57,7 @@ ul, li, p, h3, h2, div, img {
   max-height: 756px;
   height: 100vh;
   z-index: 1;
-}*/
+}
 .logo { 
   align-self: flex-start;
 }
@@ -65,7 +65,7 @@ ul, li, p, h3, h2, div, img {
   opacity: 0.3;
   transition: all 5s 1s;
 }
-.logo_place_header {
+/*.logo_place_header {
   position: absolute;
   background-image: url(../images/logo_place_header.svg);
   top: 32px;
