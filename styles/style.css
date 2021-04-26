@@ -270,11 +270,11 @@ ul, li, p, h3, h2, div, img {
 }
 .video__iframe:last-of-type {
   margin-right: 0;
-}*/
+}
 .oakley {
   padding-top: 160px;
   background-color: #f2f2f2;
-}
+}*/
 .feynman {
   background-color: #f2f2f2;
   min-height: 790px;
@@ -431,6 +431,8 @@ ul, li, p, h3, h2, div, img {
   margin-left: 48px;
   color:#2f80ed;
   align-items: flex-start;
+  height: 40px;
+  box-sizing: border-box;
  }
 .khan__buy-link:hover {
   opacity: 0.3;
