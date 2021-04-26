@@ -251,7 +251,7 @@ ul, li, p, h3, h2, div, img {
   font-size: 18px;
   font-weight: normal;
   text-align: center;
-}*/
+}
 .video {
   padding-top: 100px;
   display: flex;
@@ -270,7 +270,7 @@ ul, li, p, h3, h2, div, img {
 }
 .video__iframe:last-of-type {
   margin-right: 0;
-}
+}*/
 .oakley {
   padding-top: 160px;
   background-color: #f2f2f2;
