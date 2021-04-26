@@ -22,7 +22,7 @@
 @import url(..);
 @import url(../blocks/description/description.css);
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/cards/style.css);
+@import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/style.css);
 @import url(../blocks/cards/__image/style.css);
 @import url(../blocks/cards/__item/style.css);
