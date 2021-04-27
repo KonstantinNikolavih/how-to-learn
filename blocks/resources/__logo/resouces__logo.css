@@ -1,6 +1,6 @@
 .resouces__logo {
   min-width: 270px;
-  min-height: 38px;
+  height: 38px;
 }
 .resouces__logo:hover {
   opacity: 0.3;
